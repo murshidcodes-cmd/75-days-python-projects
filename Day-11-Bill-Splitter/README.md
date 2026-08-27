@@ -14,6 +14,8 @@ python main.py
 ```
 ## 📌 Example
 
+```text
+
 Enter bill amount: ₹1000
 Number of people: 4
 Tip percentage: 10
