@@ -13,7 +13,7 @@ python main.py
 
 ```
 
-📌 Example
+## 📌 Example
 
 ```text
 ⌨️ TYPING SPEED TEST
